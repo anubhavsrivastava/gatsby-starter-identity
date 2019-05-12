@@ -42,6 +42,9 @@ Edit `config.js` to put up your details
 module.exports = {
   siteTitle: 'Gatsby Starter Identity', // <title>
   ...
+  authorName: 'Anubhav Srivastava',
+  heading: 'Web Developer',
+  // social
   socialLinks: [
     {
       icon: 'fa-github',
