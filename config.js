@@ -9,6 +9,7 @@ module.exports = {
   manifestIcon: 'src/assets/img/website-icon.png',
   authorName: 'Rishivardhan Jodha',
   heading: 'Web Developer',
+  pathPrefix: "about",
   // social
   socialLinks: [
     {
